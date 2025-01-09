@@ -3,7 +3,7 @@
 ```bash
 npm i --save prisma
 npx prisma init
-
+..
 # schema 작성
 # neon connection string 가져오기.
 # .env DATABASE_URL 작성
