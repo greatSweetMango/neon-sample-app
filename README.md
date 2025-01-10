@@ -12,7 +12,7 @@ npx prisma init
 npx prisma migrate dev
 # migration init!
 ```
-
+..
 - schema.prismadp driverAdapters 추가
 - `npx prisma generate` 실행
 - `src/types/declaration.d.ts` 에서 global.prisma cnrk
